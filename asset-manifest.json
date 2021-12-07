@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Modern_UI-UX_GPT3/static/css/main.b41ba639.chunk.css",
+    "main.js": "/Modern_UI-UX_GPT3/static/js/main.b1e002a7.chunk.js",
+    "main.js.map": "/Modern_UI-UX_GPT3/static/js/main.b1e002a7.chunk.js.map",
+    "runtime-main.js": "/Modern_UI-UX_GPT3/static/js/runtime-main.17dcfb25.js",
+    "runtime-main.js.map": "/Modern_UI-UX_GPT3/static/js/runtime-main.17dcfb25.js.map",
+    "static/js/2.963a0f1f.chunk.js": "/Modern_UI-UX_GPT3/static/js/2.963a0f1f.chunk.js",
+    "static/js/2.963a0f1f.chunk.js.map": "/Modern_UI-UX_GPT3/static/js/2.963a0f1f.chunk.js.map",
+    "index.html": "/Modern_UI-UX_GPT3/index.html",
+    "static/css/main.b41ba639.chunk.css.map": "/Modern_UI-UX_GPT3/static/css/main.b41ba639.chunk.css.map",
+    "static/js/2.963a0f1f.chunk.js.LICENSE.txt": "/Modern_UI-UX_GPT3/static/js/2.963a0f1f.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/Modern_UI-UX_GPT3/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/Modern_UI-UX_GPT3/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/Modern_UI-UX_GPT3/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/Modern_UI-UX_GPT3/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/Modern_UI-UX_GPT3/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/Modern_UI-UX_GPT3/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.5114679f.svg": "/Modern_UI-UX_GPT3/static/media/logo.5114679f.svg",
+    "static/media/people.5cd2d6fb.png": "/Modern_UI-UX_GPT3/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/Modern_UI-UX_GPT3/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17dcfb25.js",
+    "static/js/2.963a0f1f.chunk.js",
+    "static/css/main.b41ba639.chunk.css",
+    "static/js/main.b1e002a7.chunk.js"
+  ]
+}
